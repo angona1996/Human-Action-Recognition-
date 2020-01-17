@@ -1,0 +1,6 @@
+0-clap
+1 - eat
+2- jump
+3-run
+4-sit
+5-wave
